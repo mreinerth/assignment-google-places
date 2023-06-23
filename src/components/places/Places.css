@@ -1,0 +1,20 @@
+
+.ant-select.place-search-select {
+    width:80%;
+    margin-bottom:20px;
+  }
+   
+  
+  .mapWrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .detailLabel {
+    font-size: 20px;
+  }
+
+  .detailaddress {
+    margin-bottom: 20px;
+  }
